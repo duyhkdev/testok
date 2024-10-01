@@ -45,6 +45,8 @@ public class Main {
                     sapXepTheoDiemGiamDan(list);
                     break;
                 case 0:
+                    break;
+                default:
             }
         } while (luaChon != 0);
 
