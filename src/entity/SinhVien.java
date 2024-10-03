@@ -8,6 +8,8 @@ public class SinhVien {
     private Integer diem;
     private String lop;
 
+    private String address;
+
     public SinhVien() {
     }
 
