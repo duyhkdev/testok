@@ -7,6 +7,7 @@ public class SinhVien {
     private Integer tuoi; // int
     private Integer diem;
     private String lop;
+    private String phoneNumber;
 
     public SinhVien() {
     }
